@@ -1,0 +1,2 @@
+swagger-init:
+  command: swag init -g server.go
